@@ -1,5 +1,8 @@
 # Standards and practices
 
+[![hackmd-github-sync-badge](https://hackmd.io/gB2c1QOTQQGSmYg1LIT0hg/badge)](https://hackmd.io/gB2c1QOTQQGSmYg1LIT0hg)
+
+
 List of all standards and practices agreed to by the development team.
 
 _TODO:_ Table of Contents
