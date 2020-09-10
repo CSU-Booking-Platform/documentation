@@ -1,17 +1,20 @@
-# Release 1 Status
+# Release 1 Stats
+
+[![hackmd-github-sync-badge](https://hackmd.io/_pbyZaQRSkOlwaCb1ydmeQ/badge)](https://hackmd.io/_pbyZaQRSkOlwaCb1ydmeQ)
+
 
 ### Status Legend
 | Status | Symbol |
 |:---:|:---:|
 | Not Started | :red_circle: |
-| In Progress | :large_orange_diamond: |
+| In Progress | :large_orange_diamond: | 
 | Done | :heavy_check_mark: |
 
 ## [__Release 1 Overview & Status__](#release-1-tasks)
 
 | Task | Status | Responsible(s) |
 |:---|:---:|:---:|
-| [User Stories Backlog](#user-stories-backlog) | :red_circle: | your name(s) |
+| [User Stories Backlog](#user-stories-backlog) | :large_orange_diamond: | Alex Stojda |
 | [Agile Planning](#agile-planning) | :red_circle: | Name 1, Name 2, Name 3 |
 | [Software Architecture](#software-architecture) | :red_circle: |  |
 | [UI Prototypes](#ui-prototypes) | :red_circle: |  |
