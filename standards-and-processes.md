@@ -5,7 +5,10 @@
 
 List of all standards and practices agreed to by the development team.
 
-_TODO:_ Table of Contents
+* [Commit Messages](#commit-messages)
+* [Git Workflow](#git-workflow)
+* [Code Coverage & Static Analysis](#code-coverage--sonarcloud-static-analysis)
+
  
 ## Commit Messages
 
