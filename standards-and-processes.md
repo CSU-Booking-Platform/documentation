@@ -85,7 +85,7 @@ The `documentation` repository will follow the branching model, to facilitate co
 1.  In the document, input required changes & commit changes when necessary by creating `versions` via the `Versions & GitHub Sync` menu. Ensure that your version/commit name follows commit naming conventions & **include the names of the persons who collaborated on that version.**
 2.  When ready to submit changes back to the repo, select `Push to Github` or `Push` and enter a new branch according to the naming conventions below, and push the changes. 
 3. Create a pull request & have it reviewed. If multiple people worked on the changeset, those persons cannot review this PR. 
-9. The pull reuquest must receive **at least 2 approving reviews**
+9. The pull request must receive **at least 2 approving reviews**
 5. Merge the PR once approved using the agreed-upon strategy and delete the branch.
 
 Branch naming conventions: `<source>/<document-name>/<task-name>` EX: `HackMD/standards/initial-documentation`
