@@ -51,7 +51,7 @@ Commits containing the following will increment the patch version:
 - `patch:` or `patch(...):`
 - `fix:` or `fix(...):`
 
-Other conventional commits such as `build`, `chore`, `docs` will not increment the version number.
+Other conventional commits such as `build`, `chore`, `docs` will not increment the version number, which means that a new release will not be deployed. Do not use these commit prefixes when modifying code or otherwise making changes that need to be released.
 
 All commit messages since the last tagged message are analyzed and the greatest version increment is used. For example if one commit is a minor change and one is a major change then the major version will be incremented.
 
