@@ -15,15 +15,15 @@
 | Task | Status | Responsible(s) |
 |:---|:---:|:---:|
 | [User Stories Backlog](#user-stories-backlog) | :large_orange_diamond: | Alex Stojda |
-| [Agile Planning](#agile-planning) | :red_circle: | Name 1, Name 2, Name 3 |
-| [Software Architecture](#software-architecture) | :red_circle: |  |
-| [UI Prototypes](#ui-prototypes) | :red_circle: |  |
+| [Agile Planning](#agile-planning) | :large_orange_diamond: | Alex Stojda |
+| [Software Architecture](#software-architecture) | :large_orange_diamond: |  |
+| [UI Prototypes](#ui-prototypes) | :heavy_check_mark: |  |
 | [Unit / System Testing Report](#unit-/-system-testing-report) | :red_circle: |  |
 | [Issue Tracker](#issue-tracker) | :red_circle: |  |
 | [Refactoring Activity](#refactoring-activity) | :red_circle: |  |
 | [Code Reviewing](#code-reviewing) | :red_circle: |  |
 | [Code Quality and Security Report](#code-quality-and-security-report) | :red_circle: |  |
-| [Presentation to the Instructor](#presentation-to-the-instructor) | :red_circle: |  |
+| [Presentation to the Instructor](#presentation-to-the-instructor) | :heavy_check_mark: | Everyone |
 
 ---
 
@@ -34,28 +34,28 @@
 
 | Tasks before the beginning of each Sprint | Status | Responsible(s) |
 |:-|:-:|:-:|
-| User stories | :red_circle: | |
-| User story points (only features issues have SPs) | :red_circle: | |
+| User stories | :heavy_check_mark: | Everyone |
+| User story points (only features issues have SPs) | :heavy_check_mark: | Everyone |
 
 
 ### Agile Planning
 - #### *Points: 2 / 30*
 | Tasks - 3 Sprints 3-week long each | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Sprint summary | :red_circle: | |
-| Burndown Chart | :red_circle: | |
-| Retrospective (previous sprints) | :red_circle: | |
-| ZenHub usage | :red_circle: | |
+| Sprint summary | :heavy_check_mark: | Alex Stojda |
+| Burndown Chart | :heavy_check_mark: | Alex Stojda |
+| Retrospective (previous sprints) | :red_circle: | Alex Stojda |
+| ZenHub usage | :heavy_check_mark: | Everyone |
 
 ### Software Architecture
 - #### *Points: 4 / 30*
 | Tasks | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Domain Model | :red_circle: | |
+| Domain Model | :heavy_check_mark: | Dan, Jonathan, Andrew, Alex H., and feedback from the rest of the team. |
 | Component Diagram | :red_circle: | |
 | Class Diagram | :red_circle: | |
-| ER Model | :red_circle: | | 
-| Analysis of external libraries | :red_circle: | |
+| ER Model | :heavy_check_mark: | Alex H., Andrew | 
+| Analysis of external libraries | :heavy_check_mark: | Andrew |
 | Justification of design patterns | :red_circle: | |
 
 ### UI Prototypes
@@ -64,8 +64,8 @@
 |:-|:-:|:-:|
 | Mockups linked to each user story | :red_circle: | |
 | Mockups annotated explaining functionality of buttons/inputs/outputs | :red_circle: | |
-| Persona descriptions | :red_circle: | |
-| UI variations based on the personas | :red_circle: | |
+| Persona descriptions | :heavy_check_mark: | Keegan, Alec |
+| UI variations based on the personas | :heavy_check_mark: | Keegan, Alec |
 | Show updates to the UI mockups after receiving feedback from product owner | :red_circle: | |
 
 ### Unit / System Testing Report
@@ -122,6 +122,6 @@
 - #### *Points: 3 / 30*
 | Presentation | Status | Responsible(s) |
 |:-|:-:|:-:|
-| *TODO add tasks for content of presentation, TBD - announced before release by professor* | :red_circle: | |
+| Powerpoint Presentation | :heavy_check_mark: | Mostly everyone added something |
 
 
