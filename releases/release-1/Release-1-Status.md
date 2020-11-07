@@ -104,19 +104,19 @@
 - #### *Points: 3 / 30*
 | Software metrics evolution | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Size | :red_circle: | Alex S |
-| Duplication | :red_circle: | Alex S|
-| Documentation | :red_circle: | Alex S |
-| Complexity | :red_circle: | Alex S |
-| Coupling | :red_circle: | Alex S |
-| Cohesion | :red_circle: | Alex S |
+| Size | :large_orange_diamond: | Alex S |
+| Duplication | :large_orange_diamond: | Alex S|
+| Documentation | :large_orange_diamond: | Alex S |
+| Complexity | :large_orange_diamond: | Alex S |
+| Coupling | :large_orange_diamond: | Alex S |
+| Cohesion | :large_orange_diamond: | Alex S |
 
 | Report these for Current Release | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Technical debt (TD) | :red_circle: | Alex |
-| Security vulnerabilities (SV) | :red_circle: | Alex |
-| Code convention violations (CCV) | :red_circle: | Alex |
-| List commits and PRs in which TD, SV, CCV have been addressed and __explicitly__ mention the type(s) of technical debt addressed | :red_circle: | Alex |
+| Technical debt (TD) | :large_orange_diamond:| Alex |
+| Security vulnerabilities (SV) | :large_orange_diamond: | Alex |
+| Code convention violations (CCV) | :large_orange_diamond: | Alex |
+| List commits and PRs in which TD, SV, CCV have been addressed and __explicitly__ mention the type(s) of technical debt addressed | :large_orange_diamond: | Alex |
 
 ### Presentation to the Instructor
 - #### *Points: 3 / 30*
