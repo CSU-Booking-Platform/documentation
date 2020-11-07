@@ -104,19 +104,19 @@
 - #### *Points: 3 / 30*
 | Software metrics evolution | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Size | :red_circle: | |
-| Duplication | :red_circle: | |
-| Documentation | :red_circle: | |
-| Complexity | :red_circle: | |
-| Coupling | :red_circle: | |
-| Cohesion | :red_circle: | |
+| Size | :red_circle: | Alex S |
+| Duplication | :red_circle: | Alex S|
+| Documentation | :red_circle: | Alex S |
+| Complexity | :red_circle: | Alex S |
+| Coupling | :red_circle: | Alex S |
+| Cohesion | :red_circle: | Alex S |
 
 | Report these for Current Release | Status | Responsible(s) |
 |:-|:-:|:-:|
-| Technical debt (TD) | :red_circle: | |
-| Security vulnerabilities (SV) | :red_circle: | |
-| Code convention violations (CCV) | :red_circle: | |
-| List commits and PRs in which TD, SV, CCV have been addressed and __explicitly__ mention the type(s) of technical debt addressed | :red_circle: | |
+| Technical debt (TD) | :red_circle: | Alex |
+| Security vulnerabilities (SV) | :red_circle: | Alex |
+| Code convention violations (CCV) | :red_circle: | Alex |
+| List commits and PRs in which TD, SV, CCV have been addressed and __explicitly__ mention the type(s) of technical debt addressed | :red_circle: | Alex |
 
 ### Presentation to the Instructor
 - #### *Points: 3 / 30*
