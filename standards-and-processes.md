@@ -62,15 +62,16 @@ All commit messages since the last tagged message are analyzed and the greatest 
 The `application` repository will follow the [Forking Workflow](https://hackmd.io/gB2c1QOTQQGSmYg1LIT0hg), which can be sumarized as follows: 
 
 1. A developer 'forks' the 'official' server-side repository. This creates their own server-side copy.
-2. The new server-side copy is cloned to their local system.
-3. A Git remote path for the 'official' repository is added to the local clone.
-4. A new local feature branch is created.
-5. The developer makes changes on the new branch.
-6. New commits are created for the changes.
-7. The branch gets pushed to the developer's own server-side copy.
-8. The developer opens a pull request from the new branch to the 'official' repository.
-9. The pull reuquest receives **at least 2 approving reviews**
-10. The pull request gets approved for merge and is merged into the original server-side repository using the agreed-upon merge strategy
+1. The new server-side copy is cloned to their local system.
+1. A Git remote path for the 'official' repository is added to the local clone.
+1. A new local feature branch is created.
+1. The branch gets pushed to the developer's own server-side copy.
+1. The developer opens a draft pull request from the new branch to the upstream/primary repository.
+1. The developer makes changes on the new branch.
+1. New commits are created for the changes.
+1. The developer marks the pull request as "Ready for review"
+1. The pull request receives **at least 2 approving reviews**
+1. The pull request gets approved for merge and is merged into the original server-side repository using the agreed-upon merge strategy
 
 ### `documentation` Repository
 
